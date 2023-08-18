@@ -51,6 +51,8 @@ class CreatePoll extends Component
 
 
         $this->reset(['title', 'options']);
+
+        $this->emit('pollCreated');
     }
 
 //    public function mount(){
