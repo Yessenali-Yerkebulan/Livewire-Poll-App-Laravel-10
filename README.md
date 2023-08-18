@@ -86,4 +86,4 @@ php artisan migrate
 after migration command select yes option to create database schema
 
 ## Main page
-<img style="width:100px;" src="https://github.com/Yessenali-Yerkebulan/Livewire-Poll-App-Laravel-10/assets/113698340/69737a96-688d-4701-8efe-3ef699b10b80">
+<img style="width:500px;" src="https://github.com/Yessenali-Yerkebulan/Livewire-Poll-App-Laravel-10/assets/113698340/69737a96-688d-4701-8efe-3ef699b10b80">
