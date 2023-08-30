@@ -79,11 +79,6 @@ php artisan serve
 
 ```
 
-```sh
-
-npm run dev
-
-```
 
 ## Main page
 <img style="width:500px;" src="https://github.com/Yessenali-Yerkebulan/Livewire-Poll-App-Laravel-10/assets/113698340/69737a96-688d-4701-8efe-3ef699b10b80">
